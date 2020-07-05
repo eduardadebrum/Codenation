@@ -1,0 +1,7 @@
+
+T
+java:S3655\"7Call "Optional#isPresent()" before accessing the value.(»¿±8áÔ„·—.
+N
+java:S3655U"2Call "max.isPresent()" before accessing the value.(ƒûÛv8Âò•·—.
+U
+java:S3655u"8Call "idJogador.isPresent()" before accessing the value.(½ÕÀ«8Âò•·—.
