@@ -21,7 +21,6 @@ About [Codenation](https://codenation.dev/)
 
 [Calcular Media, Moda e Mediana](https://github.com/eduardadebrum/Codenation/tree/master/2-second-module/java-14)
 
-## Second Module
 ## Third Module
 ## Fourth Module
 ## Fifth Module
