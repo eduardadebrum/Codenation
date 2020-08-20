@@ -1,6 +1,6 @@
 # Codenation
 
-This project contains the activities developed in the java acceleration course.
+This project contains the activities developed in the Java acceleration course.
 
 About [Codenation](https://codenation.dev/)
 
@@ -22,7 +22,11 @@ About [Codenation](https://codenation.dev/)
 [Calcular Media, Moda e Mediana](https://github.com/eduardadebrum/Codenation/tree/master/2-second-module/java-14)
 
 ## Third Module
+[Utilitário - Calculador de atributos de Classe](https://github.com/eduardadebrum/Codenation/tree/master/3-third-module/java-14)
+
 ## Fourth Module
+[Criando Entidades de Banco de Dados em Java](https://github.com/eduardadebrum/Codenation/tree/master/4-fourth module/java-9)
+
 ## Fifth Module
 ## Sixth Module
 ## Seventh Module

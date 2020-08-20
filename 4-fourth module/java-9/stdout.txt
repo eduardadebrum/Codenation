@@ -1,0 +1,348 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------------< com.challenge:spring-data-ddl >--------------------
+[INFO] Building spring-data-ddl 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:3.1.0:resources (default-resources) @ spring-data-ddl ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] Copying 0 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ spring-data-ddl ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:3.1.0:testResources (default-testResources) @ spring-data-ddl ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /home/dudabrum/codenation/java-9/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ spring-data-ddl ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 12 source files to /home/dudabrum/codenation/java-9/target/test-classes
+[INFO] /home/dudabrum/codenation/java-9/src/test/java/com/challenge/suite/ClassTest.java: /home/dudabrum/codenation/java-9/src/test/java/com/challenge/suite/ClassTest.java uses unchecked or unsafe operations.
+[INFO] /home/dudabrum/codenation/java-9/src/test/java/com/challenge/suite/ClassTest.java: Recompile with -Xlint:unchecked for details.
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ spring-data-ddl ---
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running com.challenge.suite.ChallengeTestSuite
+23:56:25.971 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.049 [main] INFO org.reflections.Reflections - Reflections took 73 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.154 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.160 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.165 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.171 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.178 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.184 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.188 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.194 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.202 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.207 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.212 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.219 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.227 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.235 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.238 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.247 [main] INFO org.reflections.Reflections - Reflections took 8 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.251 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.258 [main] INFO org.reflections.Reflections - Reflections took 7 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.267 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.273 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.277 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.284 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.290 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.296 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.299 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.302 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.306 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.320 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.335 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.339 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.348 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.354 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.361 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.366 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.370 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.374 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.407 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.410 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.414 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.419 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.425 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.429 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.434 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.438 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.441 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.452 [main] INFO org.reflections.Reflections - Reflections took 10 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.456 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.460 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.463 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.473 [main] INFO org.reflections.Reflections - Reflections took 8 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.478 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.484 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.500 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.505 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.519 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.534 [main] INFO org.reflections.Reflections - Reflections took 14 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.536 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.541 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.545 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.552 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.556 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.560 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.564 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.568 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.572 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.581 [main] INFO org.reflections.Reflections - Reflections took 8 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.584 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.587 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.590 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.592 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.594 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.596 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.597 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.599 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.601 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.603 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.605 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.611 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.614 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.617 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.619 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.622 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.623 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.627 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.629 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.632 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.635 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.638 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.643 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.652 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.658 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.662 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.672 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.678 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.680 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.683 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.684 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.688 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.690 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.692 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.705 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.710 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.712 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.715 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.717 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.719 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.721 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.723 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.725 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.727 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.728 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.730 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.731 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.733 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.735 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.737 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.739 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.742 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.744 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.745 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.747 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.748 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.750 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.752 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.754 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.756 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.759 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.761 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.762 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.764 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.766 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.768 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.770 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.774 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.776 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.778 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.782 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.784 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.787 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.790 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.791 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.797 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.799 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.801 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.803 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.810 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.811 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.813 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.814 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.815 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.817 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.818 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.825 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.827 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.828 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.830 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.832 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.834 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.836 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.838 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.839 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.845 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.846 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.848 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.850 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.868 [main] INFO org.reflections.Reflections - Reflections took 18 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.869 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.871 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.873 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.875 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.877 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.879 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.881 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.883 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.885 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.887 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.888 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.890 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.894 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.897 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.899 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.902 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.903 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.909 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.927 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.930 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.944 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.947 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.949 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.951 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.952 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.955 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.956 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.958 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.960 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.962 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.963 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.966 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.968 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.974 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 4 keys and 17 values 
+23:56:26.976 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/dudabrum/codenation/java-9/target/classes/
+23:56:26.977 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 17 values 
+[INFO] Tests run: 102, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.346 s - in com.challenge.suite.ChallengeTestSuite
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 102, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  11.250 s
+[INFO] Finished at: 2020-08-18T23:56:27-03:00
+[INFO] ------------------------------------------------------------------------
