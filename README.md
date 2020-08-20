@@ -1,4 +1,4 @@
-# Codenation
+# 🖥️ Codenation  🖥️
 
 This project contains the activities developed in the Java acceleration course.
 
@@ -25,7 +25,7 @@ About [Codenation](https://codenation.dev/)
 [Utilitário - Calculador de atributos de Classe](https://github.com/eduardadebrum/Codenation/tree/master/3-third-module/java-14)
 
 ## Fourth Module
-[Criando Entidades de Banco de Dados em Java](https://github.com/eduardadebrum/Codenation/tree/master/4-fourth module/java-9)
+[Criando Entidades de Banco de Dados em Java](https://github.com/eduardadebrum/Codenation/tree/master/4-fourth-module/java-9)
 
 ## Fifth Module
 ## Sixth Module
